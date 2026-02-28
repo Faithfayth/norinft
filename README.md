@@ -1,41 +1,41 @@
 # NoriNFT
-NoriNFT is a simple ERC721 Non-Fungible Token (NFT) built with solidity and OpenZeppelin.
-Project demonstrates minting and ownership control.
-Tested and deployed.
+*NoriNFT is a simple ERC721 Non-Fungible Token (NFT) built with solidity and OpenZeppelin.
+*Project demonstrates minting and ownership control.
+*Tested and deployed.
 
 ## Overview
-Allows owner to mint, ERC721 NFTs to any address
-Understand ERC721 standard
-Controlled minting using ownable
-Use of baseURI metadata
-Deployed to sepolia testnet
-Mint NFT to metamask wallet
+*Allows owner to mint, ERC721 NFTs to any address
+*Understand ERC721 standard
+*Controlled minting using ownable
+*Use of baseURI metadata
+*Deployed to sepolia testnet
+*Mint NFT to metamask wallet
 
 ## Tech Stack
-Solidity 0.8.20
-Foundry
-OpenZeppelin
-Infura
+*Solidity 0.8.20
+*Foundry
+*OpenZeppelin
+*Infura
 
 ## Features
-ERC721 compliant  NFT
-Owner-only mint function
-incrementing token ID counter
-Base URI metadata support
-Safe minting using _safeMint
+*ERC721 compliant  NFT
+*Owner-only mint function
+*incrementing token ID counter
+*Base URI metadata support
+*Safe minting using _safeMint
 
 ## Project structure
-contracts/NoriNFT.sol
-scripts/deploy.js
-test/
-README.md
+*contracts/NoriNFT.sol
+*scripts/deploy.js
+*test/
+*README.md
 
 ## Outcome
-Writing and structuring smart contracts
-Using openZeppelin library
-Managing ownership and permissions
-Deploying to Ethereum testnet
-Interacting with contract using Metamask
+*Writing and structuring smart contracts
+*Using openZeppelin library
+*Managing ownership and permissions
+*Deploying to Ethereum testnet
+*Interacting with contract using Metamask
 
 ## Foundry
 
