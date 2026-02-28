@@ -1,9 +1,9 @@
-#NoriNFT
+# NoriNFT
 NoriNFT is a simple ERC721 Non-Fungible Token (NFT) built with solidity and OpenZeppelin.
 Project demonstrates minting and ownership control.
 Tested and deployed.
 
-##Overview
+## Overview
 Allows owner to mint, ERC721 NFTs to any address
 Understand ERC721 standard
 Controlled minting using ownable
@@ -11,26 +11,26 @@ Use of baseURI metadata
 Deployed to sepolia testnet
 Mint NFT to metamask wallet
 
-##Tech Stack
+## Tech Stack
 Solidity 0.8.20
 Foundry
 OpenZeppelin
 Infura
 
-##Features
+## Features
 ERC721 compliant  NFT
 Owner-only mint function
 incrementing token ID counter
 Base URI metadata support
 Safe minting using _safeMint
 
-##Project structure
+## Project structure
 contracts/NoriNFT.sol
 scripts/deploy.js
 test/
 README.md
 
-##Outcome
+## Outcome
 Writing and structuring smart contracts
 Using openZeppelin library
 Managing ownership and permissions
